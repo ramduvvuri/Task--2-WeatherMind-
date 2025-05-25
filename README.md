@@ -21,7 +21,7 @@ I had worked on WeatherMind, which is capable of perceiving the world, interpret
 3. Visualizing 
 4. Adding memory to WeatherMind
 
-###### API keys for API used in project 
+### API keys for API used in project 
 1. google could - (AIzaSyC204YYyc_a-uBCHjkYkFpMBgUWAfpJoBY)
 2. openWeather - (b89604eb4eec1381ba92159bc58350e1)
 3. fashion - (e36ab0558cmshb59e6cb4db0ed0bp1675d2jsnff2bae5ef87c)
