@@ -16,7 +16,7 @@ I had worked on WeatherMind, which is capable of perceiving the world, interpret
 3. Testing
 
 ### Level - 3 (Judgement and Memory)
-1. Adding Judgement element to WeatherMind
+1. Adding Judgement element to WeatherMind 
 2. Testing
 3. Visualizing 
 4. Adding memory to WeatherMind
